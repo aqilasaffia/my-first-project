@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "208471573104",
+    "project_id": "indoornavigation-e603e",
+    "storage_bucket": "indoornavigation-e603e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208471573104:android:1c9a63b13d94d7e7d3eab5",
+        "android_client_info": {
+          "package_name": "com.example.new_apps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR5ylfnI97QYPgsdXbmelQpjtMC1OD9Is"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208471573104:android:a38b9897ecbbff23d3eab5",
+        "android_client_info": {
+          "package_name": "com.example.qilaaa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR5ylfnI97QYPgsdXbmelQpjtMC1OD9Is"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
